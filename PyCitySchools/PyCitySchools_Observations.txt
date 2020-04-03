@@ -1,0 +1,4 @@
+Observations for PyCitySchools
+1)  Charter School Pass Rates are higher than District Pass Rates regardless of Per Student Budget
+2)  All 5 of the Best Performing Schools are Charter Schools, While all 5 of the Worst Performing Schools are District Schools
+3)  For All Schools Math and Reading Scores remain relatively flat across grade level
